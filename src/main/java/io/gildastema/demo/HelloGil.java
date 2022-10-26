@@ -1,4 +1,4 @@
-package com.gildastema;
+package io.gildastema.demo;
 
 public class HelloGil {
 
